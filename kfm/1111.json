@@ -1,0 +1,117 @@
+{
+ "activity": {
+  "tip": "全部运行完再看任务完成度\n---------------\n一个手机不能运行超过三个账号\n---------------\n点击开始任务自动运行\n",
+  "vvv": 1,
+  "shortcut": "https://www.kuafumang.cn",
+  "list": [
+   "❤️开始1111任务❤️",
+   "超级红包入口"
+  ],
+  "mapping": {
+   "❤️开始1111任务❤️": {
+    "type": "task",
+    "key": [
+     "赚话费"
+    ]
+   },
+   "超级红包入口": {
+    "url": "taobao://m.tb.cn/h.j11NJqE"
+   },
+   "❤️购物车红包": {
+    "url": "taobao://m.tb.cn/h.j11NJqE"
+   }
+  },
+  "taskList": [
+   "赚话费"
+  ]
+ },
+ "taskData": {
+  "tag": "zhuanhuafei",
+  "common": {
+   "url": "https://raw.githubusercontent.com/LaoTangX/text/master/kfm/main.js"
+  },
+  "赚话费": {
+   "type": "task1",
+   "endpage": "taobao://m.taobao.com/tbopen/index.html?h5Url=https%3A%2F%2Fm.taobao.com",
+   "main": "taobao://m.taobao.com/tbopen/index.html?h5Url=https%3A%2F%2Fm.taobao.com",
+   "endMessage": "种树任务结束",
+   "task": {
+    "tag": "zhuanhuafei",
+    "scheme": "taobao://m.taobao.com/tbopen/index.html?h5Url=",
+    "baseurl": "://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=占位参数1&sceneId=8917&q=iphone",
+    "wait": 15,
+    "wait2": "",
+    "param": {
+     "商品定位": [
+      "nike",
+      "anta",
+      "adidas",
+      "chanel",
+      "dior",
+      "biotherm",
+      "oppo"
+     ]
+    },
+    "before": [],
+    "item": [
+     "100340",
+     "100340",
+     "100340",
+     "100340",
+     "100340",
+     "100340",
+     "100340",
+     "100340",
+     "100340",
+     "100340",
+     "100453",
+     "100453",
+     "100453",
+     "100453",
+     "100453",
+     "100453",
+     "100453",
+     "100453",
+     "100453",
+     "100453",
+     "100492",
+     "100492",
+     "100492",
+     "100492",
+     "100492",
+     "100492",
+     "100492",
+     "100492",
+     "100492",
+     "100492",
+     "107016",
+     "107016",
+     "107016",
+     "107016",
+     "107016",
+     "100531",
+     "99673",
+     "106363",
+     "99889",
+     "106588",
+     "101866",
+     "107544",
+     "99672",
+     "100454",
+     "100454",
+     "100454",
+     "100454",
+     "100454",
+     "106513",
+     "106513",
+     "106513",
+     "106513",
+     "106513",
+     "106595",
+     "99720",
+     "90782"
+    ]
+   }
+  }
+ }
+}
